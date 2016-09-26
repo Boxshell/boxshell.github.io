@@ -7,5 +7,8 @@ categories: blogs
 
 # Hello, greetings from Boxshell.
 
+![Boxshell Logo]({{ site.baseurl }}/assets/images/logo_600.png)
+
+
 
 
