@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to Jekyll !"
 date:   2016-09-21 11:22:28 +0800
-categories: jekyll update
+categories: blogs
 ---
 
 这是使用Jekyll 3.0来生成post的一个例子。本网站使用Jekyll生成。
